@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+There's somewhat _less_ to me than meets the eye...
+
+But I *am* the better for knowing. Mostly.
